@@ -1,0 +1,26 @@
+.book-detail {
+  display: flex;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.book-image {
+  width: 150px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.book-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.book-info h2 {
+  font-size: 20px;
+}
+
+.book-info p {
+  font-size: 16px;
+}
